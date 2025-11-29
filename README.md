@@ -87,5 +87,57 @@ It captures everything that helped me stay ahead and stay prepared.
 
 ---
 
+---
+
+## 🏢 Target Product-Based Companies
+
+This repository is part of my preparation for roles at top product-based organizations, including:
+
+- Google  
+- Microsoft  
+- Amazon  
+- Meta  
+- Apple  
+- Netflix  
+- Adobe  
+- Salesforce  
+- Oracle  
+- Uber  
+- Lyft  
+- Bloomberg  
+- Airbnb  
+- Shopify  
+- Cisco  
+- Nvidia  
+- Intuit  
+- Goldman Sachs  
+- Morgan Stanley  
+- Wells Fargo  
+- PayPal  
+- Atlassian  
+- LinkedIn  
+- Swiggy  
+- Zomato  
+- PhonePe  
+- Razorpay  
+- CRED  
+- Flipkart  
+- Hotstar  
+- Paytm  
+- Ola  
+- Uber India Tech  
+- Meesho  
+- Dream11  
+- Byju’s  
+- Freshworks  
+- Zoho  
+- Tekion  
+- Rippling  
+- Sprinklr  
+
+These companies inspire me to stay consistent, improve problem-solving, and build strong fundamentals for real-world software engineering roles.
+
+---
+
 ## 🔖 Tags
 job-queue • placements • placed • placement-preparation
